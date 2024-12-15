@@ -18,7 +18,7 @@
 }
 @font-face {
   font-family: Young Serif;
-  src: url(assets/css/fonts/young serif.ttf);
+  src: url(css/fonts/young serif.ttf);
 }
 /* Global Colors - The following color variables are used throughout the website. Updating them here will change the color scheme of the entire website */
 :root { 
